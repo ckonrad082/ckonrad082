@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckonrad082
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning PHP, SQL, JS
+- 🌱 I’m currently learning PHP, SQL, Java
 - 📫 How to reach me kcynar00@gmail.com
 
 <!---
